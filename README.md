@@ -5,19 +5,9 @@
   
  ### Introducción:
  
- ### Por una publicidad (para tiendas de ropa) inteligente y efectiva basado en datos y análisis.
+ ### ¡Mejorando nuestro análisis de nuestros datos con Python!
 
-Con base al desarrollado en [**`la primera etapa del módulo`**](https://github.com/Deltarios/analisis-ropa-bedu), nuestro proyecto tomó como estudio dos condiciones que son consideradas potencialmente una problemática creciente en México.
-
-- La obesidad.
-- El sobrepeso.
-
-#### El análisis se encuentra específicamente enfocado en el siguiente tópico:
-
-> En el sector textil y su ámbito de la industria de la confección, analizando la escasa  oferta y comercialización de sucursales enfocadas a la venta de __Ropa de Talla Extra__ que son cada vez más solicitadas en personas desde  temprana edad y de manera constante en la edad adulta.
-
-_En la primera parte del proyecto se obtuvo mediante el análisis de 4 variables un top 5 de estados_ [**`Ver Aquí`**](https://axel-flores.shinyapps.io/TallasExtraXL)
-
+Desde módulos anteriores ([**`la primera etapa del proyecto`**](https://github.com/Deltarios/analisis-ropa-bedu) y [**`la segunda etapa del proyecto`**](https://github.com/Deltarios/analisis_ropa_bedu_2)) se tomo como tema a desarrollar el análisis del mercado de venta de Ropa de talla extra, esto por la creciente demanda de este sector en nuestro país y fuera de el, se tomaron aspectos geográficos estableciendo la óptima ubicación de puntos de venta, el poder adquisitivo por estado, los índices de obesidad los cuales muestran alto aumento del porcentaje de obesidad  en una tendencia lineal, afluencia de personas por sector así como la  optimización de una marca específica que aborde la creciente necesidad vinculada a este rubro. 
 
 ---
 ### Integrantes: 
