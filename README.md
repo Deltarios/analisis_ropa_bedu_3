@@ -22,7 +22,7 @@ Desde módulos anteriores ([**`la primera etapa del proyecto`**](https://github.
 
 > NOTA: El archivo **`Ropas_Extra_Parte_3.ipynb`** pueden tardar en cargar en github, reintentar abrir si marca error de lo contrario abrilos en [**`Colab by Google`**](https://colab.research.google.com/)
 
--  [**`Ropas_Extra_Parte_3.ipynb`**](projecto/Ropas_Extra_Parte_3.ipynb)
+-  [**`Ropas_Extra_Parte_3.ipynb`**](proyecto/Ropas_Extra_Parte_3.ipynb)
    El archivo contiene el análisis de las variables escogidas para la localización de la tienda de ropas extras así como las ubicaciones idelaes para implementar centros de almacenaje del producto para las ventas por el mercado en línea [**`Ver en Colab Aquí`**](https://colab.research.google.com/github/Deltarios/analisis_ropa_bedu_3/blob/master/proyecto/Ropas_Extra_Parte_3.ipynb)
 
 -  [**`Datasets`**](datasets)
