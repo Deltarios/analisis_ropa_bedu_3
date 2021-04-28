@@ -20,15 +20,15 @@ Desde módulos anteriores ([**`la primera etapa del proyecto`**](https://github.
 ---
 ### Contenido del Repositorio:
 
-> NOTA: Los archivos **`Proyecto.ipynb`** y **`Scrapping_google_populartimes.ipynb`** pueden tardar en cargar en github, reintentar abrir si marca error de lo contrario abrilos en [**`Colab by Google`**](https://colab.research.google.com/)
+> NOTA: El archivo **`Ropas_Extra_Parte_3.ipynb`** pueden tardar en cargar en github, reintentar abrir si marca error de lo contrario abrilos en [**`Colab by Google`**](https://colab.research.google.com/)
 
 -  [**`Ropas_Extra_Parte_3.ipynb`**](projecto/Ropas_Extra_Parte_3.ipynb)
    El archivo contiene el análisis de las variables escogidas para la localización de la tienda de ropas extras así como las ubicaciones idelaes para implementar centros de almacenaje del producto para las ventas por el mercado en línea [**`Ver en Colab Aquí`**](https://colab.research.google.com/github/Deltarios/analisis_ropa_bedu_3/blob/master/proyecto/Ropas_Extra_Parte_3.ipynb)
 
 -  [**`Datasets`**](datasets)
-   Grupo de datasets utilizados en el proyecto (El código se llaman en red, pero se incluye los datasets de la información si se requieren).
+   Grupo de datasets utilizados en el proyecto.
    
 ---
 ### Desarrollo: 
 
-> NOTA: Esto es en modo de resúmen, dentro de Scripts **`Proyecto.ipynb`** y **`Scrapping_google_populartimes.ipynb`** se encuentra explicado cada detalle de la obtención de la información.
+> NOTA: Esto es en modo de resúmen, dentro del Script [**`Ropas_Extra_Parte_3.ipynb`**](projecto/Ropas_Extra_Parte_3.ipynb) se encuentra explicado cada detalle de la obtención de la información.
